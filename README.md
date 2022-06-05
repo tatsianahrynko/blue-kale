@@ -1,3 +1,6 @@
 # blue-kale
-dkfvbbsetfwagfcd
-gfnbvb
+
+was branch 1 -?
+branch2
+edited in terminal branch 2
+
